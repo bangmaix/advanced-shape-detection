@@ -48,9 +48,20 @@ Based on the tennis court diagram, the following shapes are detected and colored
 
 ## 📦 Installation
 
-1. Install the required dependencies:
+1. **Clone the repository**:
+```bash
+git clone https://github.com/bangmaix/advanced-shape-detection.git
+cd advanced-shape-detection
+```
+
+2. **Install the required dependencies**:
 ```bash
 pip install -r requirements.txt
+```
+
+3. **Install in development mode** (optional):
+```bash
+pip install -e .
 ```
 
 ## 🛠️ Usage
@@ -131,3 +142,10 @@ python demo_shape_detector.py [image_path]
 3. **Map Analysis**: Detect and classify geographic features
 4. **Document Processing**: Extract shapes from technical documents
 5. **Quality Control**: Verify shape consistency in manufacturing
+
+## 🔗 Links
+
+- **Repository**: https://github.com/bangmaix/advanced-shape-detection
+- **Releases**: https://github.com/bangmaix/advanced-shape-detection/releases
+- **Issues**: https://github.com/bangmaix/advanced-shape-detection/issues
+- **Actions**: https://github.com/bangmaix/advanced-shape-detection/actions
