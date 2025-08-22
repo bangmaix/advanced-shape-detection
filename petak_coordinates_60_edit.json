@@ -1,0 +1,462 @@
+[
+  {
+    "petak_id": 1,
+    "x": 1093,
+    "y": 423,
+    "width": 13,
+    "height": 6,
+    "center_x": 1098,
+    "center_y": 425,
+    "area": 59.5,
+    "aspect_ratio": 2.1666666666666665,
+    "rectangularity": 0.6102564102564103,
+    "perimeter": 33.41421353816986,
+    "vertices": 5,
+    "corners": [
+      [
+        1093,
+        423
+      ],
+      [
+        1093,
+        428
+      ],
+      [
+        1104,
+        428
+      ],
+      [
+        1105,
+        427
+      ],
+      [
+        1105,
+        423
+      ]
+    ]
+  },
+  {
+    "petak_id": 2,
+    "x": 938,
+    "y": 423,
+    "width": 13,
+    "height": 6,
+    "center_x": 944,
+    "center_y": 425,
+    "area": 60.0,
+    "aspect_ratio": 2.1666666666666665,
+    "rectangularity": 0.7692307692307693,
+    "perimeter": 34.0,
+    "vertices": 4,
+    "corners": [
+      [
+        938,
+        423
+      ],
+      [
+        938,
+        428
+      ],
+      [
+        950,
+        428
+      ],
+      [
+        950,
+        423
+      ]
+    ]
+  },
+  {
+    "petak_id": 3,
+    "x": 450,
+    "y": 423,
+    "width": 12,
+    "height": 6,
+    "center_x": 455,
+    "center_y": 425,
+    "area": 55.0,
+    "aspect_ratio": 2.0,
+    "rectangularity": 0.7638888888888888,
+    "perimeter": 32.0,
+    "vertices": 4,
+    "corners": [
+      [
+        450,
+        423
+      ],
+      [
+        450,
+        428
+      ],
+      [
+        461,
+        428
+      ],
+      [
+        461,
+        423
+      ]
+    ]
+  },
+  {
+    "petak_id": 4,
+    "x": 340,
+    "y": 423,
+    "width": 12,
+    "height": 6,
+    "center_x": 345,
+    "center_y": 425,
+    "area": 55.0,
+    "aspect_ratio": 2.0,
+    "rectangularity": 0.7638888888888888,
+    "perimeter": 32.0,
+    "vertices": 4,
+    "corners": [
+      [
+        340,
+        423
+      ],
+      [
+        340,
+        428
+      ],
+      [
+        351,
+        428
+      ],
+      [
+        351,
+        423
+      ]
+    ]
+  },
+  {
+    "petak_id": 5,
+    "x": 144,
+    "y": 423,
+    "width": 13,
+    "height": 6,
+    "center_x": 149,
+    "center_y": 425,
+    "area": 59.5,
+    "aspect_ratio": 2.1666666666666665,
+    "rectangularity": 0.6102564102564103,
+    "perimeter": 33.41421353816986,
+    "vertices": 5,
+    "corners": [
+      [
+        144,
+        423
+      ],
+      [
+        144,
+        428
+      ],
+      [
+        156,
+        428
+      ],
+      [
+        156,
+        424
+      ],
+      [
+        155,
+        423
+      ]
+    ]
+  },
+  {
+    "petak_id": 6,
+    "x": 1008,
+    "y": 422,
+    "width": 12,
+    "height": 6,
+    "center_x": 1013,
+    "center_y": 424,
+    "area": 50.0,
+    "aspect_ratio": 2.0,
+    "rectangularity": 0.6808278867102396,
+    "perimeter": 30.82842707633972,
+    "vertices": 4,
+    "corners": [
+      [
+        1008,
+        427
+      ],
+      [
+        1017,
+        427
+      ],
+      [
+        1019,
+        422
+      ],
+      [
+        1008,
+        422
+      ]
+    ]
+  },
+  {
+    "petak_id": 7,
+    "x": 471,
+    "y": 408,
+    "width": 13,
+    "height": 6,
+    "center_x": 477,
+    "center_y": 410,
+    "area": 60.0,
+    "aspect_ratio": 2.1666666666666665,
+    "rectangularity": 0.7692307692307693,
+    "perimeter": 34.0,
+    "vertices": 4,
+    "corners": [
+      [
+        471,
+        408
+      ],
+      [
+        471,
+        413
+      ],
+      [
+        483,
+        413
+      ],
+      [
+        483,
+        408
+      ]
+    ]
+  },
+  {
+    "petak_id": 8,
+    "x": 386,
+    "y": 408,
+    "width": 13,
+    "height": 6,
+    "center_x": 391,
+    "center_y": 410,
+    "area": 59.5,
+    "aspect_ratio": 2.1666666666666665,
+    "rectangularity": 0.6102564102564103,
+    "perimeter": 33.41421353816986,
+    "vertices": 5,
+    "corners": [
+      [
+        386,
+        408
+      ],
+      [
+        386,
+        413
+      ],
+      [
+        397,
+        413
+      ],
+      [
+        398,
+        412
+      ],
+      [
+        398,
+        408
+      ]
+    ]
+  },
+  {
+    "petak_id": 9,
+    "x": 362,
+    "y": 408,
+    "width": 13,
+    "height": 6,
+    "center_x": 368,
+    "center_y": 410,
+    "area": 60.0,
+    "aspect_ratio": 2.1666666666666665,
+    "rectangularity": 0.7692307692307693,
+    "perimeter": 34.0,
+    "vertices": 4,
+    "corners": [
+      [
+        362,
+        408
+      ],
+      [
+        362,
+        413
+      ],
+      [
+        374,
+        413
+      ],
+      [
+        374,
+        408
+      ]
+    ]
+  },
+  {
+    "petak_id": 10,
+    "x": 276,
+    "y": 408,
+    "width": 13,
+    "height": 6,
+    "center_x": 282,
+    "center_y": 410,
+    "area": 60.0,
+    "aspect_ratio": 2.1666666666666665,
+    "rectangularity": 0.7692307692307693,
+    "perimeter": 34.0,
+    "vertices": 4,
+    "corners": [
+      [
+        276,
+        408
+      ],
+      [
+        276,
+        413
+      ],
+      [
+        288,
+        413
+      ],
+      [
+        288,
+        408
+      ]
+    ]
+  },
+  {
+    "petak_id": 11,
+    "x": 254,
+    "y": 408,
+    "width": 12,
+    "height": 6,
+    "center_x": 259,
+    "center_y": 410,
+    "area": 55.0,
+    "aspect_ratio": 2.0,
+    "rectangularity": 0.7638888888888888,
+    "perimeter": 32.0,
+    "vertices": 4,
+    "corners": [
+      [
+        254,
+        408
+      ],
+      [
+        254,
+        413
+      ],
+      [
+        265,
+        413
+      ],
+      [
+        265,
+        408
+      ]
+    ]
+  },
+  {
+    "petak_id": 12,
+    "x": 651,
+    "y": 361,
+    "width": 11,
+    "height": 6,
+    "center_x": 655,
+    "center_y": 363,
+    "area": 47.5,
+    "aspect_ratio": 1.8333333333333333,
+    "rectangularity": 0.7048578569197126,
+    "perimeter": 29.41421353816986,
+    "vertices": 4,
+    "corners": [
+      [
+        651,
+        361
+      ],
+      [
+        651,
+        366
+      ],
+      [
+        660,
+        366
+      ],
+      [
+        661,
+        361
+      ]
+    ]
+  },
+  {
+    "petak_id": 13,
+    "x": 54,
+    "y": 137,
+    "width": 12,
+    "height": 5,
+    "center_x": 59,
+    "center_y": 139,
+    "area": 44.0,
+    "aspect_ratio": 2.4,
+    "rectangularity": 0.7333333333333333,
+    "perimeter": 30.0,
+    "vertices": 4,
+    "corners": [
+      [
+        54,
+        137
+      ],
+      [
+        54,
+        141
+      ],
+      [
+        65,
+        141
+      ],
+      [
+        65,
+        137
+      ]
+    ]
+  },
+  {
+    "petak_id": 14,
+    "x": 697,
+    "y": 42,
+    "width": 9,
+    "height": 7,
+    "center_x": 701,
+    "center_y": 44,
+    "area": 45.5,
+    "aspect_ratio": 1.2857142857142858,
+    "rectangularity": 0.7066905615292712,
+    "perimeter": 27.41421353816986,
+    "vertices": 4,
+    "corners": [
+      [
+        697,
+        42
+      ],
+      [
+        698,
+        48
+      ],
+      [
+        705,
+        48
+      ],
+      [
+        705,
+        42
+      ]
+    ]
+  }
+]
