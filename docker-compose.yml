@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: advanced-shape-detection
+    volumes:
+      - .:/app
+      - ./output:/app/output
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    command: python demo_shape_detector.py hq720.jpg
+    restart: unless-stopped
+
+  test:
+    build: .
+    container_name: advanced-shape-detection-test
+    volumes:
+      - .:/app
+    command: make test
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+
+  lint:
+    build: .
+    container_name: advanced-shape-detection-lint
+    volumes:
+      - .:/app
+    command: make lint
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+
+  format:
+    build: .
+    container_name: advanced-shape-detection-format
+    volumes:
+      - .:/app
+    command: make format
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+
+  docs:
+    build: .
+    container_name: advanced-shape-detection-docs
+    volumes:
+      - .:/app
+    ports:
+      - "8001:8000"
+    command: make serve-docs
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+
+volumes:
+  app-data:
